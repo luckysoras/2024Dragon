@@ -49,7 +49,6 @@ public class EgovSampleExcepHndlr implements ExceptionHandler {
 	public void occur(Exception ex, String packageName) {
 		LOGGER.debug(" EgovServiceExceptionHandler run...............");
 		
-		
 		//
 	}
 }
